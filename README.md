@@ -55,8 +55,3 @@ As a reminder, all credit goes to the geniuses at RStudio (thanks also to [GitHu
 
 If anything is false or not clear enough, feel free to contact me or open an issue.
 If it is an issue only related with R Markdown, you'll find a better answer posting [there](https://github.com/rstudio/rmarkdown).
-=======
-# Mihyun Kim's Homepage
-
-(Under construction)
->>>>>>> 66698bcb35cd88531432ebdcefdd4984d0632116
