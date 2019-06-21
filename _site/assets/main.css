@@ -183,10 +183,10 @@ table {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #1E4D2B;
-  border-bottom: 1px solid #1E4D2B;
+  border-top: 5px solid #FFFFFF;
+  border-bottom: 1px solid #FFFFFF;
   min-height: 55.95px;
-  background-color: #1E4D2B;
+  background-color: #FFFFFF;
   position: relative; }
 
 .site-title {
