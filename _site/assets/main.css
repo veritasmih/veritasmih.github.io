@@ -193,12 +193,12 @@ table {
   font-size: 26px;
   font-weight: 300;
   line-height: 54px;
-  color: #FFFFFF;
+  color: #000000;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #FFFFFF; }
+    color: #000000; }
 
 .site-nav {
   float: right;
@@ -208,7 +208,7 @@ table {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #FFFFFF;
+    color: #000000;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
